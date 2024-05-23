@@ -1,1 +1,1 @@
-# junior-case-spring-boot-restful-api
+# trabalho-crud-faculdade
