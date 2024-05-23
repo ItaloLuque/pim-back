@@ -1,1 +1,1 @@
-# pim-back
+# junior-case-spring-boot-restful-api
